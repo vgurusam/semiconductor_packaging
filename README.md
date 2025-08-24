@@ -141,3 +141,17 @@ Activities Inside the Cleanroom Area
 
 <img width="1911" height="1040" alt="image" src="https://github.com/user-attachments/assets/93476b20-483b-4221-b777-a41cf1268680" />
 
+2.3 - Wire Bond Packaging - Die Attach To Molding
+	• The wire bond packaging process, a widely used technique in semiconductor packaging, focusing on the sequence from die attach to molding. This process is part of the back-end manufacturing in an ATMP (Assembly, Testing, Marking, and Packaging) facility and is conducted in a cleanroom environment. 
+	• Steps involved
+		§ Die Attach: The silicon die, separated from the wafer, is attached to a substrate (e.g., leadframe or laminate) or a die pad using an adhesive material, such as epoxy. The die being placed onto a substrate with a dispensing nozzle applying adhesive. This step provides mechanical stability and a thermal/electrical pathway between the die and the package. 
+		§ Curing: The die-attached unit is subjected to a heating process to cure the epoxy, ensuring a strong and stable bond between the die and the substrate.
+		§ Wire Bonding: Wire bonding connects the die's bond pads to the substrate or leadframe using thin wires (typically gold, copper, or aluminum). The process begins with the formation of a free air ball (FAB). A fine wire is fed through a capillary tool, and a high-voltage electric arc melts the wire tip to form a spherical FAB. The FAB is pressed onto the die's bond pad under heat and ultrasonic energy, creating a metallurgical bond (e.g., ball bond). The capillary then moves to the substrate, forming a wedge bond or stitch bond, and the wire is cut, completing the connection. 
+		§ Molding: The assembled die, wire bonds, and substrate are encapsulated with a mold compound (e.g., epoxy resin) using a transfer molding machine. Molding protects the die and wire bonds from environmental factors such as moisture, dust, mechanical stress, and thermal shock. 
+		§ Marking: It involves applying identification details to the molded package using techniques like laser etching, ink printing, or stamping. 
+		§ Singulation (Dicing Blade): Singulation separates individual packaged ICs from a panel or strip (e.g., a leadframe or substrate array) into standalone units. The sawing or punching machine cuts through the molded panel along pre-defined scribe lines. These techniques are chosen based on package type (e.g., QFN, BGA) and material.
+
+
+
+<img width="813" height="996" alt="image" src="https://github.com/user-attachments/assets/15dd2685-0da6-440e-a165-87b63895aaf4" />
+

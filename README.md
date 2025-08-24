@@ -16,4 +16,39 @@ Module 1: Packaging Evolution: From Basics to 3D Integration
 
   <img width="908" height="459" alt="image" src="https://github.com/user-attachments/assets/d8b48893-e237-4002-9b3a-32bca24b8b77" />
 
+  		○ Where does packaging fits in the Semiconductor manufacturing?
+			§ The Packaging fits in the OSAT/ATMP stage of semiconductor manufacturing.
+			§ IDM - Integrated Device Manufacturing Companies are those that do the complete design, wafer manufacturing, packaging, test & assembly. Ex - Intel, Samsung etc
+			§ Fabless - Companies that do only Design and do the manufacturing with other companies Ex - Apple, Nvidia, AMD etc
+			§ Foundry - Companies that does wafer manufacturing for fabless companies. Ex. TSMC
+			§ OSAT - Outsourced Semiconductor Assembly and Test
+				□ These companies handle the wafer testing, packaging and package testing. Ex. ASE, Amkor, JCET etc.
+			§ Main stages of the Back-End Process
+				□ Design: Here the semiconductor circuit is conceptualized and designed by fabless or IDM companies. This involves creating the blueprint for the integrated circuit.
+				□ Wafer Process: Manufacturing of silicon wafers based on the design blueprint. Conducted by foundries using advanced lithography and doping techniques.
+				□ Package & Test: A critical stage where the bare dies are packaged and tested for functionality.
+					® Wafer Test: Individual dies on the wafer are tested for defects to ensure they meet performance standards.
+					® Package: The tested dies are encapsulated in protective packages.
+					® Package Test: The packaged chips undergo final testing to verify reliability and performance under various conditions.
+				□ Assembly: The final stage where the packaged chips are integrated into the final product (e.g., mounted on a PCB for devices like smartphones or computers). This step is often handled by OSATs or system integrators.
+			
+		
+		
+		
+	
+	
+	1.2.Understanding Package Requirements And Foundational Package Types
+	
+	The package requirements revolve around selecting a design that matches the chip's functionality, provides adequate connectivity, manages heat, fits the physical space, ensures long-term reliability, and remains cost-effective. Some of the key things that affect the deciding on package are as follows:
+		§ Application: The specific function of the chip defines the package requirements. If it is logic (microprocessors), memory (DRAM) or power management IC have different needs and accordingly packaging can be decided.
+		§ Pin Count (I/O pins): The number of I/O pins in the chip impacts the package decision. Higher pin counts require packages like BGA or QFP.
+		§ Thermal Dissipation: The heat from the chip if not properly dissipated can damage the chip and package decision depends on that. 
+		§ Form Factor: The package size and shape must align with the board's layout and the device's physical constraints. 
+		§ Reliability and Durability: The package must withstand environmental stresses (e.g., temperature fluctuations, humidity, mechanical shock) over its lifecycle. 
+Cost: The package design must balance performance with manufacturing and material costs.<img width="704" height="1257" alt="image" src="https://github.com/user-attachments/assets/e45d12e0-ad72-440a-ad49-d23a46b60fa9" />
+
+<img width="909" height="454" alt="image" src="https://github.com/user-attachments/assets/4d01ad79-cb01-47db-a6ad-4547773db2d5" />
+
+
+
 

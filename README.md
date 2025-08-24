@@ -68,6 +68,22 @@ Cost: The package design must balance performance with manufacturing and materia
 
 <img width="1913" height="1060" alt="image" src="https://github.com/user-attachments/assets/2c01916e-a9b5-43e6-9944-4c48ab09a717" />
 
+	Anatomy of packages
+	§ Leadframe Packages: 
+		§ These packages use a metal frame (typically copper or alloy) as the substrate, with leads extending outward for electrical connections. Key examples include: DIP (Dual In-line Package), QFN (Quad Flat No-leads), CSP (Chip Scale Package), QFP (Quad Flat Package).
+	§ Laminate Packages: 
+		§ Laminate packages use a multilayer organic substrate (e.g., epoxy-based laminates) for higher density and performance. Key examples include:
+			§ Wire Bond PBGA (Plastic Ball Grid Array): This has solder ball array used to attach the substrate to the board. The gold wirebonds are used to make electrical connections for the die. 
+			§ Flip Chip PBGA: Uses flip-chip technology where the die is flipped and connected via solder bumps (with epoxy underfill) to the laminate substrate, improving performance and reducing size.
+			§ LGA (Land Grid Array): A flat package with contact pads instead of balls, mounted directly onto the board.
+			§ FC-CSP (Flip Chip Chip Scale Package): A compact flip-chip design with solder bumps on a laminate substrate, ideal for space-constrained applications.
+	§ Advanced Package Substrates
+		§ 2D: Multiple dies (Die1, Die2) are mounted side by side on substrate. Connection between dies is through the substrate.
+		§ 2.1D: Similar to 2D but includes an RDL layer between the dies and substrate. Improved connection between dies as it needn't go all the way to substrate.
+		§ 2.3D: Similar to 2.1D but uses an organic interposer instead of RDL layer. 
+2.5D: The organic interposer in 2.3D is replaced with silicon interposer which gives better connectivity. Example: CoWoS (Chip on Wafer on Substrate)<img width="726" height="525" alt="image" src="https://github.com/user-attachments/assets/0a654dc7-debc-48ad-b337-4a25691ca585" />
+
+
 
 
 

@@ -155,3 +155,21 @@ Activities Inside the Cleanroom Area
 
 <img width="813" height="996" alt="image" src="https://github.com/user-attachments/assets/15dd2685-0da6-440e-a165-87b63895aaf4" />
 
+2.4 - Flip Chip Assembly - Bump Formation And Underfill
+Flip-Chip Packaging Process
+	§ Bump Formation on Silicon: Solder bumps or copper pillars are created on the active side of the silicon die at the bond pad locations. This involves applying an under-bump metallurgy (UBM) layer followed by solder deposition.
+	§ Chip Flip and Placement: The bumped die is inverted and precisely aligned with matching pads on the substrate (e.g., laminate or interposer). A pick-and-place machine positions the die, ensuring accurate alignment before bonding. 
+	§ Flux Dispensing: A small amount of flux is dispensed using a dispensing tool onto the substrate pads or die bumps to remove oxides and improve solder wetting during reflow. 
+	§ Solder Reflow: The assembly is heated in a reflow oven (e.g., 220-250°C) to melt the solder bumps, forming metallurgical bonds between the die and substrate. Reflow solidifies the electrical and mechanical connections, locking the die to the substrate. 
+	§ Flux Cleansing: Residual flux is removed using a cleaning agent (e.g., deionized water or solvent) to prevent corrosion or contamination. 
+	§ Underfill Dispensing: Liquid epoxy underfill is applied along the die edges, flowing beneath via capillary action to fill the gap between the die and substrate. Underfill reinforces the structure, compensating for thermal expansion mismatches and protecting bumps from mechanical stress or moisture ingress using a nozzle dispensing underfill.
+	§ Underfill Cure: The underfill is cured with heat (e.g., 100-150°C) in an oven to harden into a solid polymer. Curing stabilizes the underfill, securing the die and enhancing reliability by preventing movement or degradation under operational conditions.
+	§ Molding: The entire assembly is encapsulated with a mold compound (e.g., epoxy resin) using a transfer molding machine to protect the die, bumps, and underfill. 
+	§ Marking: Identification details (e.g., part number, logo, batch code) are etched onto the molded package using laser marking or ink printing
+	§ Ball Mounting and Reflow on Substrate: Solder balls are placed on the substrate’s bottom pads (for BGA packages), and the assembly is heated in a reflow oven to bond the balls, completing the package-to- board interface. 
+<img width="740" height="567" alt="image" src="https://github.com/user-attachments/assets/947cd205-ba9f-475f-97d9-2340e15edc01" />
+
+<img width="1902" height="1054" alt="image" src="https://github.com/user-attachments/assets/69d74561-8e54-4746-a304-cfada7d5692f" />
+
+
+

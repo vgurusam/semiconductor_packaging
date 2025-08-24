@@ -82,8 +82,8 @@ Cost: The package design must balance performance with manufacturing and materia
 		§ 2.1D: Similar to 2D but includes an RDL layer between the dies and substrate. Improved connection between dies as it needn't go all the way to substrate.
 		§ 2.3D: Similar to 2.1D but uses an organic interposer instead of RDL layer.
   		§ 2.5D: The organic interposer in 2.3D is replaced with silicon interposer which gives better connectivity. Example: CoWoS (Chip on Wafer on Substrate)
-	
- <img width="726" height="525" alt="image" src="https://github.com/user-attachments/assets/0a654dc7-debc-48ad-b337-4a25691ca585" />
+
+ <img width="903" height="506" alt="image" src="https://github.com/user-attachments/assets/897fb1ea-b631-47ca-ae65-71f2b730a79e" />
 
 
 

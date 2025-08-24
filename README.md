@@ -171,5 +171,21 @@ Flip-Chip Packaging Process
 
 <img width="1902" height="1054" alt="image" src="https://github.com/user-attachments/assets/69d74561-8e54-4746-a304-cfada7d5692f" />
 
+2.5 - Wafer Level Packaging And Conclusion
+	§ Wafer Level Packaging (WLP) encapsulates and interconnects dies at the wafer level before singulation. 
+	§ Types of WLP
+		§ Fan-in WLP (FI-WLP): Interconnects are confined within the die area, limiting I/O count but ideal for compact, low-pin-count devices.
+		§ Fan-out WLP (FO-WLP): Extends interconnects beyond the die area onto the package, enabling higher I/O counts and supporting complex chips like CPUs or GPUs.
+			§ Reconstitution Process: Individual dies (after wafer dicing) are placed face-up on a temporary carrier (e.g., glass or tape) with a gap between them. The carrier is then overmolded with an epoxy mold compound to form a reconstituted wafer, embedding the dies. Reconstitution creates a uniform wafer-like structure from disparate dies, enabling wafer-level processing. 
+			§ RDL (Redistribution Layer) Preparation: A redistribution layer is fabricated on the reconstituted wafer to reroute the die’s bond pads to desired locations for external connections. This involves depositing dielectric layers, patterning metal traces (e.g., copper), and via formation. 
+			§ Solder Ball Attach: Solder balls are placed and reflowed onto the RDL pads to form the external connections (e.g., for BGA packages). Solder balls provide the mechanical and electrical interface for mounting the package onto a PCB, ensuring reliable connectivity and supporting surface-mount technology.
+			§ Final Laser Marking: Identification details (e.g., part number, logo, batch code) are etched onto the package surface using a laser marking system after molding and ball attach.
+			§ Singulation: The reconstituted wafer is diced into individual packages using a saw or laser along pre-defined scribe lines. Singulation separates the packaged dies into standalone units, allowing them to be picked and placed onto PCBs or shipped. 
+<img width="740" height="470" alt="image" src="https://github.com/user-attachments/assets/2d228ea6-002c-4270-b8ed-958bd0dc2f81" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/227d38b8-3611-4581-b886-ad103c5aadfd" />
+
+
+
 
 

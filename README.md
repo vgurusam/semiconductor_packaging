@@ -126,4 +126,16 @@ Introduction to a Package Manufacturing Unit (ATMP)
 
 <img width="755" height="626" alt="image" src="https://github.com/user-attachments/assets/ae827be3-5b56-40b1-b2e2-d353aabf86b1" />
 
+2.2 - Wafer Pre-Preparation - Grinding And Dicing
+Activities Inside the Cleanroom Area
+	• The process starts with incoming wafer handling and inspection, then proceeds to protective lamination. It flows downward to dicing, mounting, and grinding steps. This preparation is crucial before dies are assembled into packages, as it transforms a full wafer into individual, thinned dies ready for bonding and encapsulation. The overall process in the cleanroom prepares dies for downstream assembly, testing, and packaging in OSAT facilities.
+	• Details
+		§ Incoming Wafer Carrier: A stack of wafers arrive in sealed carriers (e.g., FOUPs or cassettes)
+		§ Wafer Inspection: The wafer is visually and automatically inspected to filter only the good wafers to proceed. 
+		§ Wafer Front Tape Lamination: A protective tape is laminated onto the front (active) side of the wafer to protect the circuits from mechanical damage during grinding and dicing. 
+		§ Wafer Backside Grinding: This step removes excess silicon to thin the wafer backside and compact packaging, better heat dissipation, and 3D stacking in advanced devices. 
+		§ Tape Frame Mounting to Wafer Backside: The wafer's backside is mounted onto a dicing tape within a metal or plastic frame (ring frame). This mounting provides mechanical support and stability for the wafer during dicing and handling. 
+		§ Two-Step Wafer Dicing (Laser Grooving + Blade Dicing): The wafer is cut into individual dies using a hybrid method: first, laser grooving creates precise shallow cuts, followed by mechanical blade dicing to complete the separation. 
+		
+<img width="740" height="431" alt="image" src="https://github.com/user-attachments/assets/7ae49cd0-1bfe-4cdd-8f54-bae5b9cd86bf" />
 

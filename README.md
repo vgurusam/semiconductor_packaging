@@ -14,3 +14,6 @@ Module 1: Packaging Evolution: From Basics to 3D Integration
 		○ Molding Compound - Protective encapsulant (epoxy material) that surrounds die and wire bonds.
 		○ Trace - Conductive pathways on substrate for having electrical connections.
 
+  <img width="908" height="459" alt="image" src="https://github.com/user-attachments/assets/d8b48893-e237-4002-9b3a-32bca24b8b77" />
+
+

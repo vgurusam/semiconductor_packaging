@@ -33,7 +33,7 @@ Module 1: Packaging Evolution: From Basics to 3D Integration
 				□ Assembly: The final stage where the packaged chips are integrated into the final product (e.g., mounted on a PCB for devices like smartphones or computers). This step is often handled by OSATs or system integrators.
 			
 		
-		<img width="907" height="453" alt="image" src="https://github.com/user-attachments/assets/793e4073-99fc-4407-8571-e46fd11b98cf" />
+<img width="907" height="453" alt="image" src="https://github.com/user-attachments/assets/793e4073-99fc-4407-8571-e46fd11b98cf" />
 
 		
 	

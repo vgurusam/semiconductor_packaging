@@ -86,6 +86,9 @@ Cost: The package design must balance performance with manufacturing and materia
  <img width="903" height="506" alt="image" src="https://github.com/user-attachments/assets/897fb1ea-b631-47ca-ae65-71f2b730a79e" />
 
 
+**Comparison of various packages**
+
+<img width="908" height="513" alt="image" src="https://github.com/user-attachments/assets/ef13fe4a-a283-4f35-a99c-183482b9b429" />
 
 
 

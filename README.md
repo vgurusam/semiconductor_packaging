@@ -117,5 +117,13 @@ Supply Chain Stages: The process is divided into five main stages, each supporte
 <img width="736" height="863" alt="image" src="https://github.com/user-attachments/assets/ef456793-2b42-4e10-8831-7fc69981af4c" />
 
 
+Introduction to a Package Manufacturing Unit (ATMP)
+	• What happens in ATMP? 
+		§ ATMP (Assembly, Testing, Marking, and Packaging): It includes die attachment (e.g., bonding), encapsulation, electrical testing, reliability checks, marking (e.g., laser etching for traceability), and final packaging.
+	• Who does ATMP?
+		§ OSAT (Outsourced Semiconductor Assembly and Test): Specialized companies like ASE, Amkor, or TATA that handle ATMP for fabless or IDM firms. The ATMP process can also be performed in-house by integrated manufacturers such as Intel, TSMC, Micron, Samsung, or SK Hynix, allowing for greater control over quality and supply chain.
+
+
+<img width="755" height="626" alt="image" src="https://github.com/user-attachments/assets/ae827be3-5b56-40b1-b2e2-d353aabf86b1" />
 
 

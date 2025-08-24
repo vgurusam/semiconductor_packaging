@@ -1,4 +1,4 @@
-# semiconductor_packaging
+<img width="724" height="349" alt="image" src="https://github.com/user-attachments/assets/53e52215-5609-4216-9536-433f0229fbf1" /># semiconductor_packaging
 NASSCOM Semiconductor Packaging Course
 Module 1: Packaging Evolution: From Basics to 3D Integration
 
@@ -45,9 +45,29 @@ Module 1: Packaging Evolution: From Basics to 3D Integration
 		§ Thermal Dissipation: The heat from the chip if not properly dissipated can damage the chip and package decision depends on that. 
 		§ Form Factor: The package size and shape must align with the board's layout and the device's physical constraints. 
 		§ Reliability and Durability: The package must withstand environmental stresses (e.g., temperature fluctuations, humidity, mechanical shock) over its lifecycle. 
-Cost: The package design must balance performance with manufacturing and material costs.<img width="704" height="1257" alt="image" src="https://github.com/user-attachments/assets/e45d12e0-ad72-440a-ad49-d23a46b60fa9" />
+Cost: The package design must balance performance with manufacturing and material costs.
 
 <img width="909" height="454" alt="image" src="https://github.com/user-attachments/assets/4d01ad79-cb01-47db-a6ad-4547773db2d5" />
+
+	Package Types
+	§ Through-hole Mounting:
+		§ DIP (Dual In-line Package)
+		§ TO (Transistor Outline)
+		§ PGA (Pin Grid Array)
+		
+	§ Surface Mount Technology (SMT)
+		§ QFN (Quad Flat No-leads): Flat package with exposed pads on the bottom for surface mounting.
+		§ QFPP (Quad Flat Package): Similar to QFN but with extended leads on all four sides.
+		§ CSP (Chip Scale Package): Ultra-compact, nearly the size of the die itself.
+		§ PBGA (Plastic Ball Grid Array): Uses a plastic substrate with an array of solder balls.
+		§ LGA (Land Grid Array): Flat contacts instead of balls, used in high-performance CPUs.
+		§ PoP (Package on Package): Stacks packages vertically for memory and logic integration.
+		§ MCM (Multi-Chip Module) - Intel Broadwell: Integrates multiple dies in one package for higher density.
+		§ CoWoS (Chip on Wafer on Substrate) - Nvidia H100: Advanced 3D packaging with multiple chips on a silicon interposer, used in high-performance GPUs like the Nvidia H100.
+
+<img width="1913" height="1060" alt="image" src="https://github.com/user-attachments/assets/2c01916e-a9b5-43e6-9944-4c48ab09a717" />
+
+
 
 
 

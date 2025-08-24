@@ -1,4 +1,4 @@
-<img width="724" height="349" alt="image" src="https://github.com/user-attachments/assets/53e52215-5609-4216-9536-433f0229fbf1" /># semiconductor_packaging
+# semiconductor_packaging
 NASSCOM Semiconductor Packaging Course
 Module 1: Packaging Evolution: From Basics to 3D Integration
 

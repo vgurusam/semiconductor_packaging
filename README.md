@@ -91,6 +91,30 @@ Cost: The package design must balance performance with manufacturing and materia
 <img width="908" height="513" alt="image" src="https://github.com/user-attachments/assets/ef13fe4a-a283-4f35-a99c-183482b9b429" />
 
 
+Module #2 : From Wafer to Package: Assembly and Manufacturing Essentials
+2.1: Supply Chain and Facilities
+Supply Chain Stages: The process is divided into five main stages, each supported by specific inputs:
+	
+	1. Design House: Involves creating the integrated circuit layout (GDSII file) and developing test protocols using specialized software and foundry-provided design kits. 
+		§ Inputs: EDA tools (Electronic Design Automation), foundry PDKs (Process Design Kits).
+		§ Output: IC Design (GDSII) and Test Program.
+	2. Wafer Fabrication: Manufacturing of design into a wafer die. 
+		§ Inputs: Silicon wafers, equipment, gases, chemicals, materials.
+		§ Output: Wafer with fabricated ICs.
+	3. Package Assembly and Test: Fabricated dies are diced from the wafer, packaged (e.g., with substrates and lids), and tested for functionality for the next stage.
+		§ Inputs: Substrates, tools, materials, chemicals, lids.
+		§ Output: Individual ICs assembled in a package and tested.
+	4. Board Assembly and Test: Packaged ICs are mounted onto a PCB, along with other components, and the board is tested for performance.
+		§ Inputs: PCBs (Printed Circuit Boards), tools, materials.
+		§ Output: Many packages assembled on a board and tested.
+	5. Product Assembly and Test: The tested PCB is integrated into the final product (e.g., a smartphone), which undergoes final assembly and testing.
+		§ Inputs: Components, tools.
+		§ Output: Final product.
+
+
+
+<img width="736" height="863" alt="image" src="https://github.com/user-attachments/assets/ef456793-2b42-4e10-8831-7fc69981af4c" />
+
 
 
 

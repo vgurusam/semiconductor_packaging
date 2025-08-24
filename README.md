@@ -139,3 +139,5 @@ Activities Inside the Cleanroom Area
 		
 <img width="740" height="431" alt="image" src="https://github.com/user-attachments/assets/7ae49cd0-1bfe-4cdd-8f54-bae5b9cd86bf" />
 
+<img width="1911" height="1040" alt="image" src="https://github.com/user-attachments/assets/93476b20-483b-4221-b777-a41cf1268680" />
+

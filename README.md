@@ -91,7 +91,8 @@ Cost: The package design must balance performance with manufacturing and materia
 <img width="908" height="513" alt="image" src="https://github.com/user-attachments/assets/ef13fe4a-a283-4f35-a99c-183482b9b429" />
 
 
-Module #2 : From Wafer to Package: Assembly and Manufacturing Essentials
+**Module #2 : From Wafer to Package: Assembly and Manufacturing Essentials**
+
 2.1: Supply Chain and Facilities
 Supply Chain Stages: The process is divided into five main stages, each supported by specific inputs:
 	

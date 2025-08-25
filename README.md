@@ -233,6 +233,11 @@ Package Testing
 		
 <img width="740" height="677" alt="image" src="https://github.com/user-attachments/assets/afc0249a-82d8-40a8-bafd-049db6c13499" />
 
+Module 5 - Labs: Package Design and Modeling - Building a Semiconductor Package from Scratch 
+
+	§ This is labs class to design a semiconductor wire bond package from scratch using Ansys Electronics Desktop (AEDT). Here the Die, Substrate, Die Attach, Die Bond pads, Substrate bond pads, bond wire and mold compounds were created from scratch using the AEDT tool.
+The material, dimensions, thickness of each item were defined and visualized in AEDT.<img width="740" height="118" alt="image" src="https://github.com/user-attachments/assets/0318cb5e-c300-4805-a8b7-569f88c42ed3" />
+
 
 
 

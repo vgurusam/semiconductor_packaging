@@ -206,6 +206,14 @@ Module 4 - Ensuring Package Reliability: Testing and Performance Validation
 
 <img width="740" height="1072" alt="image" src="https://github.com/user-attachments/assets/bea71830-2fdd-4af0-9fb8-e25802172c73" />
 
+Package Testing
+	§ This involves Processing Zone and Testing Area steps.
+		§ Processing Zone: Die bonding, wire or flip-chip bonding, encapsulation, and RDL (Redistribution Layer) formation are all handled in this step. Packages are then loaded onto a tray after singulation, for further testing.
+		§ Testing Area: This step involves doing  Electrical, burn-in, and reliability chamber tests
+<img width="740" height="118" alt="image" src="https://github.com/user-attachments/assets/4c38ee6b-c007-4d48-a369-fef9491fe5dc" />
+
+<img width="1904" height="1056" alt="image" src="https://github.com/user-attachments/assets/ea645549-0697-4b12-bcc0-999b517bb065" />
+
 
 
 

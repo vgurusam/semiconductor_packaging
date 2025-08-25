@@ -218,6 +218,20 @@ Package Testing
 <img width="654" height="138" alt="image" src="https://github.com/user-attachments/assets/f0ac9c2a-1605-408f-a63e-d0c97aa50379" />
 <img width="1904" height="1056" alt="image" src="https://github.com/user-attachments/assets/ea645549-0697-4b12-bcc0-999b517bb065" />
 
+4.2 - Reliability and Performance Testing of Semiconductor Packages
+
+
+
+	§ Burn-In Test : The Burn-in Test is a testing phase for package components under elevated (stressful) conditions, including temperature, voltage, and power cycling. Parts are loaded from trays onto Burn-in Boards and then into ovens (via a Burn-in System) for testing. The system applies high voltage and temperature stress to accelerate failures.
+		§ Bath Tub Graph
+			§ The bath-tub graph is a failure rate vs Time graph and it is typically seen that there will be more failures in the beginning and it reduces over time stabilizing to a constant level and then again increase in failure seen with longer time. The graph resembles a bath-tub like shape. 
+				□ Infant Mortality: High initial failure rate (early "Infant Mortality" failures) that decreases rapidly.
+				□ Useful Life: A period of constant (random) failures with a low rate.
+				□ Wear Out: An increase in failure rate as components age.
+			§ While Burn-in effectively removes unreliable components with a high probability of early failure, the total life span of components is shortened due to the stress.
+		§ Final Test (FT): The Final Test is a temperature corner test to verify that packaged products meet specifications using an ATE (Electrical Testing Unit) with Handler for placing Devices Under Test (DUTs). ATE ensures precise testing across temperature extremes. 
+		
+<img width="740" height="677" alt="image" src="https://github.com/user-attachments/assets/afc0249a-82d8-40a8-bafd-049db6c13499" />
 
 
 

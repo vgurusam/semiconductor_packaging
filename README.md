@@ -185,6 +185,28 @@ Flip-Chip Packaging Process
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/227d38b8-3611-4581-b886-ad103c5aadfd" />
 
+Module 3:  Labs for Thermal Simulation of Semiconductor Packages
+In this Lab, we use ANSYS Electronic Desktop Tool (EDT) to setup a Flipchip BGA package, define material definitions and thermal sources, do thermal analysis on the package.
+
+The IcePak tool inside the ANSYS EDT is used for doing thermal analysis. Below is a snapshot of the Labs activity.
+
+
+
+Module 4 - Ensuring Package Reliability: Testing and Performance Validation
+4.1 - Introduction to Package Testing and Electrical Functionality Checks
+	§ What are the testing that happens different stages?
+		§ Foundry Testing Stages
+			§ Front End Manufacturing: Silicon wafers are fabricated in this step. It leads to fine tuning of the Process parameters to improve yield, reduce leakage and improve speed/ performance.
+			§ Wafer Probe Test: Individual circuits on the wafer are tested using probes to check for electrical performance and identify defective dies. 
+		§ OSAT Testing Stages
+			§ Wafer Sorting: Wafers are sorted based on test results. Good dies are separated from defective ones and only the good dies proceed to packaging.
+			§ Package Manufacturing: Involves assembling the sorted dies into packages to protect them and enable connectivity. Processes include die attachment, wire bonding, and encapsulation.
+			§ Package Testing: Packaged Testing phase in semiconductor manufacturing, divided into two main areas: the Processing Zone and the Testing Area, with a sequential testing process.
+		.
+
+<img width="740" height="1072" alt="image" src="https://github.com/user-attachments/assets/bea71830-2fdd-4af0-9fb8-e25802172c73" />
+
+
 
 
 

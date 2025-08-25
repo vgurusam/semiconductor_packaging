@@ -213,11 +213,9 @@ Package Testing
   			§ AOST (Assembly Open and Short Test): Checks for open circuits and short circuits on the package board, using a package socket.
 			§ Burn-in Test: Temperature and voltage and power cycling are elevated to accelerate ageing to catch early-life reliability issues.
 			§ Final Test: Conducts cold and hot tests to validate functional, parametric, reliability and validate the electrical performance of the packaged IC across temperature and voltage corners and ensure it meets the datasheet specifications.
-<img width="654" height="138" alt="image" src="https://github.com/user-attachments/assets/f0ac9c2a-1605-408f-a63e-d0c97aa50379" />
-
 
 <img width="740" height="118" alt="image" src="https://github.com/user-attachments/assets/4c38ee6b-c007-4d48-a369-fef9491fe5dc" />
-
+<img width="654" height="138" alt="image" src="https://github.com/user-attachments/assets/f0ac9c2a-1605-408f-a63e-d0c97aa50379" />
 <img width="1904" height="1056" alt="image" src="https://github.com/user-attachments/assets/ea645549-0697-4b12-bcc0-999b517bb065" />
 
 
